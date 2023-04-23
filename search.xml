@@ -12,6 +12,7 @@
 ]]></content>
       <categories>
         <category>实习</category>
+        <category>百度</category>
       </categories>
       <tags>
         <tag>实习</tag>
@@ -35,5 +36,32 @@
 
 <p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
 ]]></content>
+  </entry>
+  <entry>
+    <title>【实习】【快手】风控算法实习生招聘</title>
+    <url>/2023/04/23/20230423_0002_%E5%BF%AB%E6%89%8B/</url>
+    <content><![CDATA[<p>工作职责：</p>
+<ol>
+<li>负责核心算法落地到产品，包括封装、编译、优化等工作</li>
+<li>探索基于用户画像和行为数据构建图网络，通过节点度量异常检测，挖掘潜在风险素材</li>
+<li>探索在风控场景下小样本&#x2F;无样本学习，提升风险识别和泛化能力，提升风险模型效果<br>职位要求：</li>
+<li>计算机、数学或相关专业硕士及以上学历</li>
+<li>扎实编程基础，熟练使用java、python等编程语言；具有机器学习、深度学习算法等相关经验，具备较强的工程实现能力</li>
+<li>熟练掌握常见的CV或NLP模型和算法，有意图识别、相似度计算、实体识别、关键词挖掘等项目经验</li>
+<li>具备较强的分析能力，能够结合业务场景快速建模和设计算法，分析算法的不足并提出解决方案。</li>
+<li>熟悉以下至少一种深度学习框架Caffe、Torch、Tensorflow</li>
+<li>具有小样本学习、半监督学习、强化学习、迁移学习、图神经网络&#x2F;图表示学习研究与实践者优先</li>
+<li>实习周期不低于6个月，每周不低于4天</li>
+</ol>
+<p>简历发送至：********</p>
+]]></content>
+      <categories>
+        <category>实习</category>
+        <category>快手</category>
+      </categories>
+      <tags>
+        <tag>实习</tag>
+        <tag>快手</tag>
+      </tags>
   </entry>
 </search>
